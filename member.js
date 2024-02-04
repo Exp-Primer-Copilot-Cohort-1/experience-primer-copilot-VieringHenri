@@ -1,3 +1,7 @@
-function skills member() {
-  return this.skills;
+function member() {
+  return (
+    <div>
+      <h1>Member</h1>
+    </div>
+  );
 }
